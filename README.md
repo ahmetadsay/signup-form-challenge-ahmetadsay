@@ -2,6 +2,8 @@
 
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
+LIVE: <a>https://sign-up-form-challeng-adsay.netlify.app/ </a>
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
